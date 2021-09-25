@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/jubi_innen.json#kuechenaufzug"
+                 "value":".\/jubi_aussen.json#kuechenaufzug"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -101,7 +101,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -254,6 +254,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":16
 }
