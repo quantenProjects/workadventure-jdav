@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/jubi_aussen.json#kuechenaufzug"
+                 "value":".\/jubi_innen.json#kuechenaufzug"
                 }],
          "type":"tilelayer",
          "visible":true,
