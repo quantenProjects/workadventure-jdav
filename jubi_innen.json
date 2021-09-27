@@ -156,7 +156,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/jubi_aussen.json"
+                 "value":".\/jubi_aussen.json#startLayerVonInnen"
                 }],
          "type":"tilelayer",
          "visible":true,
